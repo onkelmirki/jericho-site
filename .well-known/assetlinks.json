@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "de.jericho.app",
+      "sha256_cert_fingerprints": [
+        "B1:3A:7A:12:B9:2C:FE:87:13:EB:36:BD:D5:A5:FC:2B:FE:BD:D6:C7:36:AE:1D:04:C3:14:0F:60:EC:EC:85:95"
+      ]
+    }
+  }
+]
