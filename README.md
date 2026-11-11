@@ -1,6 +1,6 @@
 # jericho-site
 
-Statischer Host für `app.jericho-mail.de` (GitHub Pages). Ersetzt Vercel.
+Statischer Host für `app.jericho-app.de` (GitHub Pages). Ersetzt Vercel.
 
 Inhalt: `.well-known/assetlinks.json` (Android-App-Links für Jerri), Fanshop-Bilder (`images/fanshop/`), Hinweisseite (Web-Version eingestellt) und der aufräumende Service Worker.
 
